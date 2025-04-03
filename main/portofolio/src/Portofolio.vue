@@ -1,5 +1,4 @@
 <script setup>
-import HelloWorld from "./components/HelloWorld.vue";
 import navbar from "./components/navbar/navbar.vue";
 import heroSection from "./components/hero/hero.vue";
 import aboutSection from "./components/about/about.vue";
