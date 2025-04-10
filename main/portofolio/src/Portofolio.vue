@@ -1,11 +1,3 @@
-<script setup>
-import navbar from "./components/navbar/navbar.vue";
-import heroSection from "./components/hero/hero.vue";
-import aboutSection from "./components/about/about.vue";
-import skillSection from "./components/skill/skill.vue";
-import footerSection from "./components/footer/footer.vue";
-</script>
-
 <template>
   <header>
     <!-- navbar -->
@@ -24,5 +16,11 @@ import footerSection from "./components/footer/footer.vue";
     <footerSection />
   </footer>
 </template>
-
+<script setup>
+import navbar from "./components/navbar/navbar.vue";
+import heroSection from "./components/hero/hero.vue";
+import aboutSection from "./components/about/about.vue";
+import skillSection from "./components/skill/skill.vue";
+import footerSection from "./components/footer/footer.vue";
+</script>
 <style scoped></style>

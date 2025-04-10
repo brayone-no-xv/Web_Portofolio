@@ -5,8 +5,9 @@
     class="has-outline mx-auto flex flex-col bg-green-200 sm:mb-8 sm:flex-row sm:justify-center"
   >
     <div class="container text-left">
-      <h1 class="title capitalize">Muhammad Rahman</h1>
+      <h1 class="title capitalize">Hi,I'm Muhammad Rahman</h1>
       <p class="subtitle text-gray-500">FE | BE Developer</p>
+      <p class="subtitle text-gray-500">Banjarmasin, Indonesia</p>
       <ul class="mb-3 inline-flex gap-3">
         <li
           class="rounded-2xl bg-blue-500 px-3 py-3 text-center font-semibold text-white"

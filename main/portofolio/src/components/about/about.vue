@@ -9,7 +9,7 @@
     }"
   >
     <div class="container text-center">
-      <h1 class="title capitalize">About Me</h1>
+      <h1 class="title capitalize">About Me? 😎</h1>
       <p
         class="subtitle"
         :class="{
@@ -17,11 +17,8 @@
           'text-white ': isDark,
         }"
       >
-        I am a passionate fullstack developer with expertise in building robust,
-        scalable, and efficient server-side applications. With a strong
-        foundation in various backend technologies and frameworks, I specialize
-        in creating reliable APIs, optimizing database performance, and
-        implementing secure authentication systems.
+        I am a passionate front-end developer with expertise and a strong
+        foundation using various front-end frameworks.
       </p>
     </div>
   </section>
