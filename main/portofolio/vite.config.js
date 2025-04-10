@@ -8,7 +8,11 @@ export default defineConfig({
   build: {
     rollupOptions: {
       input: {
-        portofolio: "../portofolio/app.html",
+        navbar: "../portofolio/src/components/navbar/navbar.vue",
+        hero: "../portofolio/src/components/hero/hero.vue",
+        about: "../portofolio/src/components/about/about.vue",
+        skill: "../portofolio/src/components/skill/skill.vue",
+        footer: "../portofolio/src/components/footer/footer.vue",
       },
     },
   },
